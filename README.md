@@ -1,8 +1,8 @@
 # The World in One Day — Monday, 23 November 2026
 
-[![make.fun bounty](https://img.shields.io/badge/make.fun-news--image--20261123-blue)](https://make.fun/bounty/news-image-20261123)
-[![github](https://img.shields.io/badge/github-labibhanafi%2Fnews--image--20261123--entry--v2-black)](https://github.com/labibhanafi/news-image-20261123-entry-v2)
-[![referral](https://img.shields.io/badge/referral-make.fun-green)](https://make.fun/r/3t7y0djc)
+[![make.fun](https://make.fun/badge/news-image-20261123.svg)](https://make.fun/bounty/news-image-20261123)
+[![rank](https://make.fun/badge/news-image-20261123/labibhanafi/news-image-20261123-entry-v2/rank.svg)](https://make.fun/bounty/news-image-20261123)
+[![reward](https://make.fun/badge/news-image-20261123/labibhanafi/news-image-20261123-entry-v2/reward.svg)](https://make.fun/bounty/news-image-20261123)
 
 Entry for the [make.fun news-image-20261123](https://make.fun/bounty/news-image-20261123)
 competition ($100): one image summing up the world's news of
